@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💻 Afia Tasnim Ria
+BSCSE,
+United International University
 
-<!--
-**afiatasnimria/afiatasnimria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi there!
 
-Here are some ideas to get you started:
+I'm a 3rd year CSE student at UIU. I specialize in Frontend and am passionate about building scalable solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Skills
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | C, C++, Java, MySQL,HTML, CSS |
+
+---
+
+### 🚀 Check out my pinned projects below!
+
+-   https://github.com/afiatasnimria/PuzzleSolving-Game - [Puzzle solving game which got prize in uiu CSE project show]
+-   https://github.com/afiatasnimria/PatientCare_System - [Innovative figma design]
+-   https://github.com/afiatasnimria/Tourny_mate - [Database management project]
