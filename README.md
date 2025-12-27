@@ -4,7 +4,7 @@ United International University
 
 ### 👋 Hi there!
 
-I'm a 3rd year CSE student at UIU. I specialize in Frontend and am passionate about building scalable solutions.
+I'm a 4th year CSE student at UIU. I specialize in Frontend and am passionate about building scalable solutions.
 
 ### 🛠️ Core Skills
 
