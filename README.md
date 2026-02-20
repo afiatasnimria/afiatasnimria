@@ -1,84 +1,63 @@
-<!-- 🌈 Colorful Animated Header -->
+<!-- Custom Gradient Header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&text=Afia%20Tasnim%20Ria&fontSize=45&fontColor=ffffff&color=0:ff6ec4,50:7873f5,100:4ADEDE" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Afia%20Tasnim%20Ria&fontSize=42&fontColor=ffffff&color=0:2E1A47,50:6C63FF,100:FF6584" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=700&color=FF61F6&center=true&vCenter=true&width=650&lines=Frontend+Developer;JavaFX+Application+Builder;Award+Winning+Project+Creator;Creative+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=700&color=6C63FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;JavaFX+Engineer;Creative+System+Builder;UI%2FUX+Focused+Designer" />
 </p>
 
 <p align="center">
-  BSc in Computer Science & Engineering <br/>
+  BSc in Computer Science & Engineering  
+  <br/>
   United International University · Dhaka
 </p>
 
 ---
 
-# 🌸 About Me
+## ✨ About
 
-I create interactive, scalable and visually engaging systems.  
-My focus is clean architecture, real-time systems and thoughtful UI design.
-
----
-
-# 🚀 Tech Stack
-
-C · C++ · Java · PHP · MySQL  
-HTML · CSS · JavaScript  
-JavaFX · Figma · Arduino · Bootstrap  
+I design and build interactive systems that balance logic and visual clarity.  
+My work focuses on structured architecture, real-time collaboration, and meaningful user experience.
 
 ---
 
-# 📊 GitHub Stats
+## 💻 Tech Stack
+
+**Languages**  
+C · C++ · Java · PHP · MySQL · JavaScript  
+
+**Frontend**  
+HTML · CSS · JavaFX  
+
+**Tools**  
+Figma · Arduino · Bootstrap  
+
+---
+
+# 📊 GitHub Insights
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=afiatasnimria&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiatasnimria&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=afiatasnimria&theme=radical&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 👾 Pac-Man Contribution Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/pacman.svg" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=afiatasnimria&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-# 🌈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afiatasnimria&bg_color=0d1117&color=ff61f6&line=ff61f6&point=ffffff&area=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=afiatasnimria&show_icons=true&hide_border=true&title_color=6C63FF&icon_color=FF6584&text_color=ffffff&bg_color=0D1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiatasnimria&layout=compact&hide_border=true&title_color=6C63FF&text_color=ffffff&bg_color=0D1117" />
 </p>
 
 ---
 
 <p align="center">
-  ✨ <i>Code. Create. Inspire.</i> ✨
+  <img src="https://streak-stats.demolab.com?user=afiatasnimria&hide_border=true&background=0D1117&stroke=6C63FF&ring=FF6584&fire=FF6584&currStreakLabel=6C63FF" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afiatasnimria&bg_color=0D1117&color=6C63FF&line=FF6584&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <b style="color:#6C63FF;">Build with logic.</b>  
+  <b style="color:#FF6584;">Design with emotion.</b>
 </p>
