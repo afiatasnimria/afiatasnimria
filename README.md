@@ -73,21 +73,6 @@ A comprehensive healthcare platform designed in **Figma** with real-world proble
 
 ---
 
-## 🎙 Voice Assistant  
-
-🔗 https://github.com/afiatasnimria/VoiceAssistant  
-
-**Tech:** `Python` `SpeechRecognition` `Pyttsx3` `Google API`
-
-Features:
-- Voice command execution  
-- Application control  
-- Reminder system  
-- Joke generator  
-- Web search integration  
-
----
-
 ## 🏆 TournyMate  
 
 🔗 https://github.com/afiatasnimria/Tourny_mate  
@@ -103,34 +88,12 @@ Features:
 
 ---
 
-## 🐟 Automated Fish Pond (IoT Project)
-
-🔗 https://github.com/afiatasnimria/Automated-FishPond  
-
-**Tech:** `Arduino` `C++` `Sensors` `Servo Motors`
-
-Smart system for:
-- Water temperature monitoring  
-- pH level control  
-- Turbidity detection  
-- Automated feeding  
-
----
-
-# 📊 GitHub Stats
-
-![Ria's GitHub stats](https://github-readme-stats.vercel.app/api?username=afiatasnimria&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afiatasnimria&layout=compact&theme=tokyonight)
-
----
-
 # 🌟 Achievements
 
 ✔ 6th Runners Up – UIU CSE Project Show Spring-25  
 ✔ Strong OOP & Database Design Skills  
 ✔ UI/UX Focused Frontend Developer  
-✔ Academic CGPA: 3.85 / 4.00  
+✔ Academic CGPA: 3.84 / 4.00 (Running)  
 
 ---
 
