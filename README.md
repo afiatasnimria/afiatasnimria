@@ -1,93 +1,77 @@
-<!-- Minimal Animated Header -->
+<!-- Animated Gradient Header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2c2c2c&height=120&section=header"/>
-</p>
-
-<h1 align="center">Afia Tasnim Ria</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=888888&center=true&vCenter=true&width=500&lines=Frontend+Developer;JavaFX+Application+Builder;Problem+Solver;UI%2FUX+Focused+Engineer" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Afia%20Tasnim%20Ria&fontSize=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  BSc in Computer Science & Engineering <br>
-  United International University <br>
-  Dhaka, Bangladesh
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=800&color=6E8EF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaFX+Application+Engineer;Award+Winning+Project+Builder;UI%2FUX+Focused+Problem+Solver" />
+</p>
+
+<p align="center">
+  BSc in Computer Science & Engineering <br/>
+  United International University · Dhaka, Bangladesh
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=afiatasnimria&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## About
+## About Me
 
-I build structured, scalable and interactive systems with a strong focus on clean UI and logical architecture.
+I design and develop structured, scalable and interactive systems with a strong focus on logic, performance and clean UI.
 
-My interests include:
-- Desktop application development
+My work blends:
 - Real-time systems
-- Database-integrated platforms
-- User-centered design
+- Desktop applications
+- Database-driven platforms
+- User-centered design thinking
 
 ---
 
-## Featured Work
+## Featured Project
 
-### Multilevel Puzzle Solving Game
-Awarded 6th Runners Up – UIU CSE Project Show (Spring-25)
+### Multilevel Puzzle Solving Game  
+6th Runners Up – UIU CSE Project Show (Spring-25)
 
-JavaFX-based team puzzle system with:
-- Integrated multi-game architecture  
+- 5 Integrated puzzle modules  
+- Team-based level synchronization  
 - Real-time socket group chat  
-- Level synchronization logic  
-- MySQL persistence  
+- MySQL persistent tracking  
+
+Tech: JavaFX · Scene Builder · MySQL · Socket Programming  
 
 Repository:  
 https://github.com/afiatasnimria/PuzzleSolving-Game
 
 ---
 
-### PatientCare System
-
-Healthcare platform prototype with:
-- Doctor booking
-- SOS emergency module
-- Ambulance tracking
-- Epidemic alert system
-
-Repository:  
-https://github.com/afiatasnimria/PatientCare_System
-
----
-
-### TournyMate
-
-Tournament management system with:
-- Automated scheduling  
-- Live score updates  
-- Player ranking system  
-
-Repository:  
-https://github.com/afiatasnimria/Tourny_mate
-
----
-
-## Technical Stack
+## Tech Stack
 
 C · C++ · Java · PHP · MySQL · HTML · CSS · JavaScript  
 JavaFX · Figma · Arduino · Bootstrap  
 
 ---
 
-## GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afiatasnimria&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=afiatasnimria&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiatasnimria&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiatasnimria&layout=compact&hide_border=true&theme=transparent" />
+  <img src="https://streak-stats.demolab.com?user=afiatasnimria&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afiatasnimria&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -97,5 +81,5 @@ JavaFX · Figma · Arduino · Bootstrap
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2c2c2c&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,100:2c5364&section=footer"/>
 </p>
