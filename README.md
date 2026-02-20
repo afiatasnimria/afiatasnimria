@@ -1,107 +1,101 @@
-# ✨ Afia Tasnim Ria  
+<!-- Minimal Animated Header -->
 
-🎓 **BSc in Computer Science & Engineering**  
-🏫 United International University  
-🏆 6th Runners Up – UIU CSE Project Show Spring-25  
-💡 Frontend Specialist | JavaFX Developer | Problem Solver  
-📍 Dhaka, Bangladesh  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2c2c2c&height=120&section=header"/>
+</p>
 
----
+<h1 align="center">Afia Tasnim Ria</h1>
 
-## 🌸 About Me
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=888888&center=true&vCenter=true&width=500&lines=Frontend+Developer;JavaFX+Application+Builder;Problem+Solver;UI%2FUX+Focused+Engineer" />
+  </a>
+</p>
 
-Hi! I’m **Ria**, a passionate 4th year CSE student who loves turning ideas into real-world applications.
-
-I specialize in:
-- 🎨 Designing interactive user interfaces  
-- ⚙️ Building scalable backend logic  
-- 🧠 Creating collaborative problem-solving systems  
-- 🌐 Developing full-stack web applications  
-
-I believe technology should be **functional, beautiful, and meaningful.**
+<p align="center">
+  BSc in Computer Science & Engineering <br>
+  United International University <br>
+  Dhaka, Bangladesh
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## About
 
-### 💻 Languages
-`C` `C++` `Java` `PHP` `MySQL` `HTML` `CSS` `JavaScript`
+I build structured, scalable and interactive systems with a strong focus on clean UI and logical architecture.
 
-### 🧰 Tools & Technologies
-- JavaFX + Scene Builder  
-- MySQL Database  
-- Socket Programming  
-- Figma (UI/UX Design)  
-- Arduino (IoT Systems)  
-- Bootstrap  
+My interests include:
+- Desktop application development
+- Real-time systems
+- Database-integrated platforms
+- User-centered design
 
 ---
 
-# 🚀 Featured Projects
+## Featured Work
+
+### Multilevel Puzzle Solving Game
+Awarded 6th Runners Up – UIU CSE Project Show (Spring-25)
+
+JavaFX-based team puzzle system with:
+- Integrated multi-game architecture  
+- Real-time socket group chat  
+- Level synchronization logic  
+- MySQL persistence  
+
+Repository:  
+https://github.com/afiatasnimria/PuzzleSolving-Game
 
 ---
 
-## 🧩 Multilevel Puzzle Solving Game 🏆  
-**Award Winning Project – UIU CSE Project Show Spring-25**
+### PatientCare System
 
-🔗 https://github.com/afiatasnimria/PuzzleSolving-Game  
+Healthcare platform prototype with:
+- Doctor booking
+- SOS emergency module
+- Ambulance tracking
+- Epidemic alert system
 
-### ✨ Highlights
-- 🎮 5 Integrated Puzzle Games  
-- 👥 Team-based Level Unlocking System  
-- 💬 Real-time Multithreaded Group Chat  
-- 🗄 MySQL Persistent Tracking  
-- 🧠 Intelligent Progress Synchronization  
-
-**Tech Used:**  
-`JavaFX` `Scene Builder` `MySQL` `Socket Programming`
+Repository:  
+https://github.com/afiatasnimria/PatientCare_System
 
 ---
 
-## 🏥 PatientCare System  
+### TournyMate
 
-🔗 https://github.com/afiatasnimria/PatientCare_System  
-
-A comprehensive healthcare platform designed in **Figma** with real-world problem-solving vision.
-
-### 🌟 Features
-- Doctor & Nurse Booking  
-- SOS Emergency System  
-- Ambulance Request with ETA  
-- Epidemic Alerts  
-- Hospital Finder with Map Integration  
-
----
-
-## 🏆 TournyMate  
-
-🔗 https://github.com/afiatasnimria/Tourny_mate  
-
-**Tech Stack:**  
-`PHP` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
-
-Features:
-- Tournament creation & management  
+Tournament management system with:
+- Automated scheduling  
 - Live score updates  
 - Player ranking system  
-- Automated match scheduling  
+
+Repository:  
+https://github.com/afiatasnimria/Tourny_mate
 
 ---
 
-# 🌟 Achievements
+## Technical Stack
 
-✔ 6th Runners Up – UIU CSE Project Show Spring-25  
-✔ Strong OOP & Database Design Skills  
-✔ UI/UX Focused Frontend Developer  
-✔ Academic CGPA: 3.84 / 4.00 (Running)  
+C · C++ · Java · PHP · MySQL · HTML · CSS · JavaScript  
+JavaFX · Figma · Arduino · Bootstrap  
 
 ---
 
-# 📫 Connect With Me
+## GitHub Analytics
 
-📧 aria2231058@bscse.uiu.ac.bd  
-🔗 GitHub: https://github.com/afiatasnimria  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afiatasnimria&show_icons=true&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiatasnimria&layout=compact&hide_border=true&theme=transparent" />
+</p>
 
 ---
 
-✨ *"Building solutions that are not just coded, but thoughtfully crafted."*
+<p align="center">
+  <i>Build with clarity. Design with intention.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:2c2c2c&height=100&section=footer"/>
+</p>
