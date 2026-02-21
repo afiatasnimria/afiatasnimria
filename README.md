@@ -1,16 +1,8 @@
-<!-- ===================== CLASSIC DEVELOPER PROFILE ===================== -->
+<!-- ===================== CLASSIC DEVELOPER PROFILE ===================== --> 
 
-# ✨ Afia Tasnim Ria  
-
-🎓 **BSc in Computer Science & Engineering**  
-🏫 United International University  
-🏆 6th Runners Up – UIU CSE Project Show Spring-25  
-💡 Frontend Specialist | JavaFX Developer | Problem Solver  
-📍 Dhaka, Bangladesh  
-
----
-
-## 🌸 About Me
+<p align="center">
+  <code>✨ Afia Tasnim Ria </code>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=20&duration=3000&pause=800&color=94A3B8&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaFX+Application+Engineer;System+Focused+Programmer;Clean+Architecture+Advocate" />
