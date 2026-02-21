@@ -1,7 +1,7 @@
 <!-- ===================== CLASSIC DEVELOPER PROFILE ===================== --> 
 
 <p align="center">
-  <code># ✨ Afia Tasnim Ria </code>
+  <code> ✨ Afia Tasnim Ria </code>
 </p>
 
 <p align="center">
@@ -28,13 +28,19 @@ with emphasis on clarity, scalability and thoughtful design.
 
 ---
 
-## Technical Stack
+## 🛠 Tech Stack
 
-```txt
-Languages   : C | C++ | Java | PHP | MySQL | JavaScript
-Frontend    : HTML | CSS | JavaFX
-Tools       : Figma | Arduino | Bootstrap
-```
+### 💻 Languages
+`C` `C++` `Java` `PHP` `MySQL` `HTML` `CSS` `JavaScript`
+
+### 🧰 Tools & Technologies
+- JavaFX + Scene Builder  
+- MySQL Database  
+- Socket Programming  
+- Figma (UI/UX Design)  
+- Arduino (IoT Systems)  
+- Bootstrap  
+
 
 ---
 
