@@ -90,18 +90,18 @@ Features:
 
 ---
 
-# 📊 Contribution Pulse
+## GitHub Contribution Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afiatasnimria&bg_color=111827&color=ffffff&line=6366F1&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afiatasnimria&bg_color=ffffff&color=2d3748&line=4a5568&point=2d3748&area=true&hide_border=true" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake Engine
+## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
