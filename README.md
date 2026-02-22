@@ -13,33 +13,40 @@
   <br>
   United International University · Dhaka  
   <br>
-  CGPA: 3.85 / 4.00
+  CGPA: 3.84 / 4.00(Running)
 </p>
 
 ---
 
-# ⚡ Developer Identity
 
-I build systems that are structured, scalable, and performance-driven.  
-My work blends real-time communication, database architecture, and interactive UI design.
+## 🌸 About Me
 
-**Core Strengths**
+Hi! I’m **Ria**, a passionate 4th year CSE student who loves turning ideas into real-world applications.
 
-- Desktop Application Engineering  
-- Multi-User Real-Time Systems  
-- Database-Integrated Platforms  
-- Clean and Maintainable Code  
+I specialize in:
+- 🎨 Designing interactive user interfaces  
+- ⚙️ Building scalable backend logic  
+- 🧠 Creating collaborative problem-solving systems  
+- 🌐 Developing full-stack web applications  
+
+I believe technology should be **functional, beautiful, and meaningful.**
 
 ---
 
-# 🧠 Technical Stack
+## 🛠 Tech Stack
 
-```
-C | C++ | Java | PHP | MySQL | JavaScript
-HTML | CSS | JavaFX
-Figma | Arduino | Bootstrap | Socket Programming
-```
+### 💻 Languages
+`C` `C++` `Java` `PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
+### 🧰 Tools & Technologies
+- JavaFX + Scene Builder  
+- MySQL Database  
+- Socket Programming  
+- Figma (UI/UX Design)  
+- Arduino (IoT Systems)  
+- Bootstrap  
+
+---
 ---
 
 # 🏆 Highlight Project
@@ -54,6 +61,34 @@ Repository
 https://github.com/afiatasnimria/PuzzleSolving-Game
 
 ---
+## 🏥 PatientCare System  
+
+🔗 https://github.com/afiatasnimria/PatientCare_System  
+
+A comprehensive healthcare platform designed in **Figma** with real-world problem-solving vision.
+
+### 🌟 Features
+- Doctor & Nurse Booking  
+- SOS Emergency System  
+- Ambulance Request with ETA  
+- Epidemic Alerts  
+- Hospital Finder with Map Integration  
+
+---
+## 🏆 TournyMate  
+
+🔗 https://github.com/afiatasnimria/Tourny_mate  
+
+**Tech Stack:**  
+`PHP` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
+
+Features:
+- Tournament creation & management  
+- Live score updates  
+- Player ranking system  
+- Automated match scheduling  
+
+---
 
 # 📊 Contribution Pulse
 
@@ -66,8 +101,14 @@ https://github.com/afiatasnimria/PuzzleSolving-Game
 # 🐍 Contribution Snake Engine
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-light.svg" />
 </p>
+
+---
+# 📫 Connect With Me
+
+📧 aria2231058@bscse.uiu.ac.bd  
+🔗 GitHub: https://github.com/afiatasnimria  
 
 ---
 
