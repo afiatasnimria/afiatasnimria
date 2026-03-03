@@ -24,10 +24,10 @@
 Hi! I’m **Ria**, a passionate 4th year CSE student who loves turning ideas into real-world applications.
 
 I specialize in:
-🎨 Designing interactive user interfaces  
-⚙️ Building scalable backend logic  
-🧠 Creating collaborative problem-solving systems  
-🌐 Developing full-stack web applications  
+-🎨 Designing interactive user interfaces  
+-⚙️ Building scalable backend logic  
+-🧠 Creating collaborative problem-solving systems  
+-🌐 Developing full-stack web applications  
 
 I believe technology should be **functional, beautiful, and meaningful.**
 
