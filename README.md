@@ -21,7 +21,7 @@
 
 ## 🌸 About Me
 
-Hi! I’m **Ria**, a passionate 4th year CSE student who loves turning ideas into real-world applications.
+Hi! I’m **Afia**, a passionate 4th year CSE student who loves turning ideas into real-world applications.
 
 I specialize in:
 - 🎨 Designing interactive user interfaces  
