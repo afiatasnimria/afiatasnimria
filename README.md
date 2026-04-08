@@ -13,7 +13,6 @@
   <br>
   United International University · Dhaka  
   <br>
-  CGPA: 3.84 / 4.00(Running)
 </p>
 
 ---
