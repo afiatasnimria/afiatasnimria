@@ -35,7 +35,7 @@ I believe technology should be **functional, beautiful, and meaningful.**
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-`C` `C++` `Java` 'React' `PHP` `MySQL` `HTML` `CSS` `JavaScript`
+`C` `C++` `Java` `React` `PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
 ### 🧰 Tools & Technologies
 - JavaFX + Scene Builder  
