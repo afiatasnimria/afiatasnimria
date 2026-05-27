@@ -11,7 +11,7 @@
 <p align="center">
   <b>BSc in Computer Science & Engineering</b>  
   <br>
-  United International University · Dhaka  
+  United International University
   <br>
 </p>
 
