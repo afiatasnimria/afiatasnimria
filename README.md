@@ -1,199 +1,275 @@
 
+<!-- ================== DEVELOPER PROFILE ================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1e1b4b,50:6d4c7d,100:e9a8b8&text=AFIA%20TASNIM%20RIA&fontSize=38&fontColor=ffffff&fontAlignY=37&desc=Developer%20%E2%80%A2%20Designer%20%E2%80%A2%20Problem%20Solver&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=23&duration=3200&pause=1100&color=C084A5&center=true&vCenter=true&width=650&lines=Frontend+Developer+%F0%9F%8C%B8;JavaFX+Application+Engineer;Creative+Problem+Solver;Building+Beautiful+Digital+Experiences" alt="Typing Animation"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:020617,100:0f172a&text=AFIA%20TASNIM%20RIA&fontSize=38&fontColor=38bdf8&fontAlignY=43&desc=SOFTWARE%20DEVELOPER%20%7C%20COMPUTER%20SCIENCE%20UNDERGRADUATE&descAlignY=70&descSize=14&descColor=94a3b8"/>
 
 <br/>
 
-**Computer Science & Engineering Undergraduate**
-
-United International University, Bangladesh
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Scalable+Software+Solutions;Full-Stack+Web+Development;JavaFX+%7C+Desktop+Application+Engineering;Database+Design+%7C+System+Architecture;Turning+Complex+Problems+Into+Code" alt="Developer Typing Animation"/>
 
 <br/>
 
-<a href="mailto:aria2231058@bscse.uiu.ac.bd">
-<img src="https://img.shields.io/badge/Email-Me-D76D93?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 <a href="https://github.com/afiatasnimria">
-<img src="https://img.shields.io/badge/GitHub-Profile-29243E?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=afiatasnimria&style=for-the-badge&color=C084A5&label=PROFILE+VIEWS"/>
+<a href="mailto:aria2231058@bscse.uiu.ac.bd">
+<img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=afiatasnimria&style=for-the-badge&color=0284c7&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-<h2 align="center">🌷 A Little About Me</h2>
+## `01 / ABOUT`
 
-<p align="center">
-  <i>"Where creativity meets logic, beautiful things happen."</i>
-</p>
+```yaml
+name: Afia Tasnim Ria
+role: Computer Science & Engineering Undergraduate
+university: United International University
+location: Bangladesh
 
-Hi there! I'm **Afia**, a fourth-year Computer Science & Engineering student at **United International University**.
+focus:
+  - Full-Stack Web Development
+  - Desktop Application Engineering
+  - Database-Driven Systems
+  - UI/UX Design
 
-I enjoy transforming creative ideas into functional, user-friendly applications. From interactive desktop games to healthcare platforms and tournament management systems, I love building technology that makes a difference.
+interests:
+  - Software Architecture
+  - Problem Solving
+  - Collaborative Applications
+  - Real-World System Development
+```
 
-- 🎨 Passionate about **Frontend Development & UI/UX Design**
-- ☕ Building desktop applications with **Java & JavaFX**
-- 🌐 Exploring **Full-Stack Web Development**
-- 🧩 Interested in **Collaborative Systems & Problem Solving**
-- 🏆 **6th Runners Up** — UIU CSE Project Show, Spring 2025
-- 🌱 Always learning, experimenting, and improving
+I'm a fourth-year **Computer Science & Engineering student** at United International University, focused on designing and developing functional, maintainable software.
+
+My experience includes desktop applications, web-based platforms, relational database systems, and interactive interface design.
+
+I enjoy solving engineering challenges by combining **structured design, efficient implementation, and practical user experience**.
 
 ---
 
-<h2 align="center">🦋 My Tech Universe</h2>
+## `02 / TECHNOLOGY STACK`
 
 <div align="center">
 
-### Languages & Web Technologies
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,php,react,mysql&theme=dark&perline=9" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,php&theme=dark" alt="Programming Languages"/>
 
-<br/>
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=dark" alt="Frontend Technologies"/>
+
+### Database & Backend
+
+<img src="https://skillicons.dev/icons?i=mysql,php,java&theme=dark" alt="Backend and Database"/>
 
 ### Tools & Development Environment
 
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,idea,arduino,bootstrap&theme=dark&perline=7" alt="Development tools"/>
-
-<br/>
-
-**Additional Skills**
-
-![JavaFX](https://img.shields.io/badge/JavaFX-Desktop%20Apps-C084A5?style=flat-square)
-![Scene Builder](https://img.shields.io/badge/Scene%20Builder-UI%20Design-8B79A8?style=flat-square)
-![Socket Programming](https://img.shields.io/badge/Socket%20Programming-Networking-6D4C7D?style=flat-square)
-![Database Design](https://img.shields.io/badge/Database-Design-D76D93?style=flat-square)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,arduino&theme=dark" alt="Developer Tools"/>
 
 </div>
 
+<br/>
+
+| Domain | Technologies |
+|:--|:--|
+| **Programming** | C, C++, Java, JavaScript, PHP |
+| **Frontend** | HTML5, CSS3, React, Bootstrap |
+| **Backend** | PHP, Java, Socket Programming |
+| **Database** | MySQL, Relational Database Design |
+| **Desktop Development** | JavaFX, Scene Builder |
+| **UI/UX** | Figma, Interface Prototyping |
+| **Tools** | Git, GitHub, VS Code, IntelliJ IDEA |
+| **Hardware & IoT** | Arduino |
+
 ---
 
-<h2 align="center">✨ Featured Creations</h2>
+## `03 / FEATURED PROJECTS`
 
-<p align="center">
-  <i>A collection of ideas brought to life through code and creativity.</i>
-</p>
+### `PROJECT_01` — Multilevel Puzzle Solving Game
 
-### 🏆 Multilevel Puzzle Solving Game
+**JavaFX Desktop Application | Multiplayer System**
 
-**6th Runners Up — UIU CSE Project Show (Spring 2025)**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Socket](https://img.shields.io/badge/Socket_Programming-0F172A?style=flat-square)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square)
 
-A collaborative desktop gaming experience combining five unique puzzle systems with real-time communication and synchronized player progress.
+**Achievement:** 6th Runners Up — UIU CSE Project Show, Spring 2025
 
-**Highlights**
-- Five interactive puzzle-solving challenges
-- Real-time group chat using socket programming
-- Multiplayer collaboration
-- Database-integrated progress tracking
-- Interactive JavaFX desktop interface
+A collaborative desktop gaming platform that integrates five puzzle-solving modules with real-time multiplayer communication and database-driven progress management.
 
-**Built With:** `Java` `JavaFX` `MySQL` `Socket Programming`
+**Engineering Highlights**
+- Modular implementation of five puzzle systems
+- Client-server communication using Java sockets
+- Real-time group messaging
+- MySQL-based player data and progress tracking
+- Interactive desktop interface using JavaFX
 
-<a href="https://github.com/afiatasnimria/PuzzleSolving-Game">
-<img src="https://img.shields.io/badge/Explore%20Project-29243E?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**System Architecture**
 
-<br/>
+```text
+             JavaFX User Interface
+                      |
+               Game Controller
+                      |
+          +-----------+-----------+
+          |                       |
+     Puzzle Engine          Socket Client
+          |                       |
+     Game Logic              Chat Server
+          |                       |
+          +-----------+-----------+
+                      |
+                 Data Layer
+                      |
+                 MySQL DB
+```
 
-### 🏥 PatientCare — Healthcare Experience Design
+[![Repository](https://img.shields.io/badge/VIEW_SOURCE_CODE-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/afiatasnimria/PuzzleSolving-Game)
 
-A thoughtfully designed healthcare platform prototype focused on improving accessibility, emergency response, and patient support.
+---
 
-**Key Features**
-- Doctor and nurse appointment booking
-- SOS emergency assistance
-- Ambulance requests with estimated arrival times
-- Epidemic awareness alerts
-- Map-based hospital discovery
+### `PROJECT_02` — PatientCare System
 
-**Designed With:** `Figma` `UI/UX` `Prototyping`
+**Healthcare Platform | UI/UX Design**
 
-<a href="https://github.com/afiatasnimria/PatientCare_System">
-<img src="https://img.shields.io/badge/View%20Design-BC729B?style=for-the-badge&logo=figma&logoColor=white"/>
-</a>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![UX](https://img.shields.io/badge/UI%2FUX-0F172A?style=flat-square)
+![Prototype](https://img.shields.io/badge/Prototyping-0284C7?style=flat-square)
 
-<br/>
+A healthcare platform design focused on connecting patients with medical services through a centralized, accessible user experience.
 
-### 🏟️ TournyMate — Tournament Management System
+**Core Modules**
+- Doctor and nurse booking interfaces
+- Emergency SOS workflow
+- Ambulance request with estimated arrival time
+- Epidemic notification system
+- Hospital discovery with map integration
 
-A full-stack sports tournament management platform designed to simplify competition organization and performance tracking.
+**Design Focus:** User journeys, interface consistency, information architecture, and emergency-service accessibility.
 
-**Key Features**
-- Tournament creation and management
+[![Repository](https://img.shields.io/badge/VIEW_PROJECT-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/afiatasnimria/PatientCare_System)
+
+---
+
+### `PROJECT_03` — TournyMate
+
+**Full-Stack Sports Tournament Management System**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+A web-based tournament administration system designed to streamline competition management, scheduling, score tracking, and player rankings.
+
+**Engineering Highlights**
+- Tournament creation and administration
+- Match scheduling workflows
 - Live score updates
-- Player rankings
-- Automated match scheduling
-- Structured database management
+- Player performance and ranking management
+- Relational database integration
 
-**Built With:** `PHP` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap`
+**Technology Stack:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap
 
-<a href="https://github.com/afiatasnimria/Tourny_mate">
-<img src="https://img.shields.io/badge/Explore%20Project-29243E?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![Repository](https://img.shields.io/badge/VIEW_SOURCE_CODE-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/afiatasnimria/Tourny_mate)
 
 ---
 
-<h2 align="center">📊 My GitHub Journey</h2>
+## `04 / GITHUB ANALYTICS`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=afiatasnimria&show_icons=true&theme=radical&hide_border=true&bg_color=1E1B2E&title_color=E9A8B8&icon_color=C084A5&text_color=F4EAF2" height="170" alt="GitHub Statistics"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=afiatasnimria&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&include_all_commits=true" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiatasnimria&layout=compact&theme=radical&hide_border=true&bg_color=1E1B2E&title_color=E9A8B8&text_color=F4EAF2" height="170" alt="Most Used Languages"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiatasnimria&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1" alt="Top Languages"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=afiatasnimria&theme=radical&hide_border=true&background=1E1B2E&ring=D76D93&fire=E9A8B8&currStreakLabel=C084A5&sideLabels=E9A8B8" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=afiatasnimria&hide_border=true&background=0D1117&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8&sideNums=F8FAFC&currStreakNum=F8FAFC" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-<h2 align="center">🌸 Contribution Activity</h2>
+## `05 / CONTRIBUTION ACTIVITY`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=afiatasnimria&bg_color=1E1B2E&color=E9A8B8&line=C084A5&point=FFFFFF&area=true&area_color=6D4C7D&hide_border=true&custom_title=Afia%27s%20Contribution%20Journey" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=afiatasnimria&bg_color=0d1117&color=38bdf8&line=0284c7&point=ffffff&area=true&area_color=0c4a6e&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-<h2 align="center">🐍 My Contribution Garden</h2>
+## `06 / DEVELOPMENT APPROACH`
 
-<div align="center">
+```text
+  REQUIREMENTS
+       |
+       v
+  SYSTEM DESIGN
+       |
+       v
+  IMPLEMENTATION
+       |
+       v
+  TESTING & DEBUGGING
+       |
+       v
+  OPTIMIZATION
+       |
+       v
+  DELIVERY
+```
 
-<img src="https://raw.githubusercontent.com/afiatasnimria/afiatasnimria/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+My development approach emphasizes:
 
-</div>
+- **Modularity** — Separating responsibilities into maintainable components
+- **Scalability** — Designing systems with future growth in mind
+- **Usability** — Prioritizing intuitive and accessible interfaces
+- **Reliability** — Validating functionality through testing and debugging
+- **Collaboration** — Building solutions through teamwork and communication
 
 ---
 
-<h2 align="center">💌 Let's Connect & Create</h2>
+## `07 / ACHIEVEMENTS`
+
+| Recognition | Details |
+|:--|:--|
+| **6th Runners Up** | UIU CSE Project Show — Spring 2025 |
+| **Awarded Project** | Multilevel Puzzle Solving Game |
+| **Academic Program** | BSc in Computer Science & Engineering |
+| **Institution** | United International University |
+
+---
+
+## `08 / CONNECT`
 
 <div align="center">
 
-I believe the best ideas grow through collaboration, curiosity, and creativity.
-
-Whether it's a development project, a design challenge, or an exciting new idea, I'd love to connect!
+**Open to collaboration, software development opportunities, and technical discussions.**
 
 <br/>
 
 <a href="mailto:aria2231058@bscse.uiu.ac.bd">
-<img src="https://img.shields.io/badge/Let's%20Talk-Email-D76D93?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/CONTACT_VIA_EMAIL-0284c7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/afiatasnimria">
-<img src="https://img.shields.io/badge/Follow%20My%20Journey-GitHub-29243E?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### 🌷 Build with purpose. Design with heart. Grow with curiosity.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:6d4c7d,100:e9a8b8&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:020617,100:0f172a&text=ENGINEER%20%7C%20BUILD%20%7C%20IMPROVE&fontSize=16&fontColor=38bdf8" width="100%"/>
 
 </div>
+
+<!-- ================= END PROFILE ================== -->
