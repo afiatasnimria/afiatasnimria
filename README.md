@@ -1,188 +1,270 @@
 
-<!-- ================== DEVELOPER PROFILE ================== -->
+<!-- ================= DEVELOPER PROFILE ================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:020617,100:0f172a&text=AFIA%20TASNIM%20RIA&fontSize=38&fontColor=38bdf8&fontAlignY=43&desc=SOFTWARE%20DEVELOPER%20%7C%20COMPUTER%20SCIENCE%20UNDERGRADUATE&descAlignY=70&descSize=14&descColor=94a3b8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:020617,100:0f172a&text=AFIA%20TASNIM%20RIA&fontSize=38&fontColor=38bdf8&fontAlignY=43&desc=AI%20%26%20ML%20RESEARCH%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=70&descSize=14&descColor=94a3b8"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Scalable+Software+Solutions;Full-Stack+Web+Development;JavaFX+%7C+Desktop+Application+Engineering;Database+Design+%7C+System+Architecture;Turning+Complex+Problems+Into+Code" alt="Developer Typing Animation"/>
+<a href="https://afia-tasnim-ria.vercel.app/">
+<img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-0284c7?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Exploring+Artificial+Intelligence+%26+Deep+Learning;Medical+Image+Analysis+%7C+Multimodal+Learning;Software+Development+%26+System+Design;Building+Technology+For+Real-World+Problems" alt="Developer Typing Animation"/>
 
 <br/>
 
 <a href="https://github.com/afiatasnimria">
 <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:aria2231058@bscse.uiu.ac.bd">
+<a href="mailto:afiatasnimria@gmail.com">
 <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8"/>
 </a>
+<a href="https://afia-tasnim-ria.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8"/>
+</a>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=afiatasnimria&style=for-the-badge&color=0284c7&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## `01 / ABOUT`
+## `01 / ABOUT ME`
 
 ```yaml
 name: Afia Tasnim Ria
-role: Computer Science & Engineering Undergraduate
+role: CSE Undergraduate
 university: United International University
-location: Bangladesh
+location: Dhaka, Bangladesh
+expected_graduation: February 2027
+cgpa: 3.89 / 4.00
 
-focus:
-  - Full-Stack Web Development
-  - Desktop Application Engineering
+research_interests:
+  - Artificial Intelligence
+  - Deep Learning
+  - Multimodal Learning
+  - Medical Image Analysis
+  - Computer Vision
+
+development_interests:
+  - Software Engineering
+  - Web Development
+  - Desktop Applications
   - Database-Driven Systems
   - UI/UX Design
-
-interests:
-  - Software Architecture
-  - Problem Solving
-  - Collaborative Applications
-  - Real-World System Development
 ```
 
-I'm a fourth-year **Computer Science & Engineering student** at United International University, focused on designing and developing functional, maintainable software.
+I'm a Computer Science and Engineering undergraduate at **United International University**, passionate about Artificial Intelligence, Deep Learning, and Software Engineering.
 
-My experience includes desktop applications, web-based platforms, relational database systems, and interactive interface design.
+My experience spans multimodal learning, medical image analysis, web development, desktop applications, and database-driven systems.
 
-I enjoy solving engineering challenges by combining **structured design, efficient implementation, and practical user experience**.
+I enjoy exploring research-oriented challenges and transforming ideas into practical technological solutions.
+
+<div align="center">
+
+**[🌐 EXPLORE MY PORTFOLIO](https://afia-tasnim-ria.vercel.app/)**
+
+</div>
 
 ---
 
-## `02 / TECHNOLOGY STACK`
+## `02 / EDUCATION`
+
+| Qualification | Institution | Result |
+|:--|:--|:--|
+| B.Sc. in CSE | United International University | **CGPA: 3.89/4.00** |
+| HSC (2020) | — | GPA: 5.00 |
+| SSC (2018) | — | GPA: 5.00 |
+
+**Expected Graduation:** February 2027
+
+---
+
+## `03 / TECHNOLOGY STACK`
 
 <div align="center">
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,php&theme=dark" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php&theme=dark"/>
 
-### Frontend Development
+### Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=dark" alt="Frontend Technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=dark"/>
 
-### Database & Backend
+### Database & Development Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,php,java&theme=dark" alt="Backend and Database"/>
-
-### Tools & Development Environment
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,arduino&theme=dark" alt="Developer Tools"/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea,figma,arduino&theme=dark"/>
 
 </div>
 
-<br/>
-
 | Domain | Technologies |
 |:--|:--|
-| **Programming** | C, C++, Java, JavaScript, PHP |
+| **Programming** | C, C++, Java, Python, JavaScript, PHP |
+| **AI / ML** | Deep Learning, CNN, Computer Vision, KNN, K-Means, SHAP, Survival Analysis |
 | **Frontend** | HTML5, CSS3, React, Bootstrap |
 | **Backend** | PHP, Java, Socket Programming |
 | **Database** | MySQL, Relational Database Design |
 | **Desktop Development** | JavaFX, Scene Builder |
-| **UI/UX** | Figma, Interface Prototyping |
+| **UI/UX** | Figma, Interface Design |
 | **Tools** | Git, GitHub, VS Code, IntelliJ IDEA |
-| **Hardware & IoT** | Arduino |
+| **Hardware & IoT** | Arduino, C++ |
 
 ---
 
-## `03 / FEATURED PROJECTS`
+## `04 / RESEARCH EXPERIENCE`
 
-### `PROJECT_01` — Multilevel Puzzle Solving Game
+### `RESEARCH_01` — Pan-Cancer Survival Prediction Using Multimodal Deep Learning
 
-**JavaFX Desktop Application | Multiplayer System**
+<sub>Research Project</sub>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-0F172A?style=flat-square)
+![TCGA](https://img.shields.io/badge/TCGA-0284C7?style=flat-square)
+![Survival Analysis](https://img.shields.io/badge/Survival_Analysis-7C3AED?style=flat-square)
+
+Developing a multimodal survival prediction framework integrating mRNA, miRNA, and clinical data to improve cancer survival prediction.
+
+**Research Highlights**
+- Multimodal data integration using mRNA, miRNA, and clinical features.
+- Autoencoders for modality-specific representation learning.
+- Cross-attention and DeepSurv-based prediction framework.
+- Performance evaluation using C-index and time-dependent AUC.
+- Kaplan-Meier survival analysis and SHAP-based interpretation.
+
+### `RESEARCH_02` — Leukemia Classification Using Deep Learning
+
+<sub>Ongoing Research</sub>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-0F172A?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-0284C7?style=flat-square)
+
+Working on blood-smear image classification for four leukemia categories:
+
+**AML | ALL | CML | CLL**
+
+**Research Highlights**
+- Blood-smear image preprocessing and segmentation.
+- Image augmentation and dataset preparation.
+- CNN-based classification.
+- ResNet50, EfficientNet, and Vision Transformer.
+- Ensemble learning for classification performance.
+
+---
+
+## `05 / SELECTED TECHNICAL PROJECTS`
+
+### `PROJECT_01` — Mystic Maze
+
+**Multilevel Multiplayer Puzzle Game**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Socket](https://img.shields.io/badge/Socket_Programming-0F172A?style=flat-square)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Achievement:** 6th Runners Up — UIU CSE Project Show, Spring 2025
+Developed a team-based multiplayer puzzle game featuring five puzzle modules, real-time chat, and shared level progression.
 
-A collaborative desktop gaming platform that integrates five puzzle-solving modules with real-time multiplayer communication and database-driven progress management.
+- JavaFX-based interactive desktop application.
+- Socket programming for multiplayer communication.
+- MySQL-based data management.
+- Shared team progression and puzzle-solving mechanics.
 
-**Engineering Highlights**
-- Modular implementation of five puzzle systems
-- Client-server communication using Java sockets
-- Real-time group messaging
-- MySQL-based player data and progress tracking
-- Interactive desktop interface using JavaFX
+**Achievement:** 6th Runner-up, UIU CSE Project Show — Spring 2025.
 
-**System Architecture**
-
-```text
-             JavaFX User Interface
-                      |
-               Game Controller
-                      |
-          +-----------+-----------+
-          |                       |
-     Puzzle Engine          Socket Client
-          |                       |
-     Game Logic              Chat Server
-          |                       |
-          +-----------+-----------+
-                      |
-                 Data Layer
-                      |
-                 MySQL DB
-```
-
-[![Repository](https://img.shields.io/badge/VIEW_SOURCE_CODE-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/afiatasnimria/PuzzleSolving-Game)
+[View Source Code](https://github.com/afiatasnimria/PuzzleSolving-Game)
 
 ---
 
-### `PROJECT_02` — PatientCare System
+### `PROJECT_02` — Tourny Mate
 
-**Healthcare Platform | UI/UX Design**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![UX](https://img.shields.io/badge/UI%2FUX-0F172A?style=flat-square)
-![Prototype](https://img.shields.io/badge/Prototyping-0284C7?style=flat-square)
-
-A healthcare platform design focused on connecting patients with medical services through a centralized, accessible user experience.
-
-**Core Modules**
-- Doctor and nurse booking interfaces
-- Emergency SOS workflow
-- Ambulance request with estimated arrival time
-- Epidemic notification system
-- Hospital discovery with map integration
-
-**Design Focus:** User journeys, interface consistency, information architecture, and emergency-service accessibility.
-
-[![Repository](https://img.shields.io/badge/VIEW_PROJECT-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/afiatasnimria/PatientCare_System)
-
----
-
-### `PROJECT_03` — TournyMate
-
-**Full-Stack Sports Tournament Management System**
+**Tournament Management System**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-A web-based tournament administration system designed to streamline competition management, scheduling, score tracking, and player rankings.
+Designed a database-driven platform for tournament administration, match scheduling, score tracking, and player rankings.
 
-**Engineering Highlights**
-- Tournament creation and administration
-- Match scheduling workflows
-- Live score updates
-- Player performance and ranking management
-- Relational database integration
-
-**Technology Stack:** PHP, MySQL, HTML, CSS, JavaScript, Bootstrap
-
-[![Repository](https://img.shields.io/badge/VIEW_SOURCE_CODE-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/afiatasnimria/Tourny_mate)
+[View Source Code](https://github.com/afiatasnimria/Tourny_mate)
 
 ---
 
-## `04 / GITHUB ANALYTICS`
+### `PROJECT_03` — PatientCare System
+
+**Healthcare UI/UX Prototype**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+Designed healthcare workflows focusing on accessible medical services and emergency support.
+
+- Doctor booking interfaces.
+- Emergency SOS workflow.
+- Ambulance request system.
+- Hospital discovery and healthcare navigation.
+
+[View Source Code](https://github.com/afiatasnimria/PatientCare_System)
+
+---
+
+### `PROJECT_04` — Voice Assistant
+
+**Python Desktop Automation**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+Developed a voice-controlled assistant incorporating speech recognition, text-to-speech, and desktop automation.
+
+### `PROJECT_05` — Yoga-Center Management System
+
+**Web Development**
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+Designed a web-based management solution for yoga-related activities and information.
+
+### `PROJECT_06` — Automated Fish Pond
+
+**IoT-Based Automation**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+Developed an IoT-based pond monitoring and automation project using sensors and microcontroller technology.
+
+---
+
+## `06 / EXPERIENCE`
+
+### Grader — Object Oriented Programming
+
+**United International University | Fall 2023**
+
+- Assisted in evaluating programming assignments.
+- Supported students in understanding object-oriented programming concepts.
+
+---
+
+## `07 / ACHIEVEMENTS & CERTIFICATIONS`
+
+| Category | Details |
+|:--|:--|
+| **Project Achievement** | 6th Runner-up — UIU CSE Project Show, Spring 2025 |
+| **Academic Achievement** | CGPA 3.89/4.00 |
+| **Certification** | Grameenphone Academy — Professional Development and Technical Learning Certificates |
+
+---
+
+## `08 / GITHUB ANALYTICS`
 
 <div align="center">
 
@@ -198,7 +280,7 @@ A web-based tournament administration system designed to streamline competition 
 
 ---
 
-## `05 / CONTRIBUTION ACTIVITY`
+## `09 / CONTRIBUTION ACTIVITY`
 
 <div align="center">
 
@@ -208,68 +290,44 @@ A web-based tournament administration system designed to streamline competition 
 
 ---
 
-## `06 / DEVELOPMENT APPROACH`
+## `10 / REFERENCES`
 
-```text
-  REQUIREMENTS
-       |
-       v
-  SYSTEM DESIGN
-       |
-       v
-  IMPLEMENTATION
-       |
-       v
-  TESTING & DEBUGGING
-       |
-       v
-  OPTIMIZATION
-       |
-       v
-  DELIVERY
-```
+**Dr. Muhammad Nomani Kabir**  
+Professor, Department of CSE  
+United International University  
+kabir@cse.uiu.ac.bd
 
-My development approach emphasizes:
-
-- **Modularity** — Separating responsibilities into maintainable components
-- **Scalability** — Designing systems with future growth in mind
-- **Usability** — Prioritizing intuitive and accessible interfaces
-- **Reliability** — Validating functionality through testing and debugging
-- **Collaboration** — Building solutions through teamwork and communication
+**Al Shakib E Elahi**  
+Junior Software Engineer  
+LEADS Corporation Limited  
+alshakibeelahi@gmail.com
 
 ---
 
-## `07 / ACHIEVEMENTS`
-
-| Recognition | Details |
-|:--|:--|
-| **6th Runners Up** | UIU CSE Project Show — Spring 2025 |
-| **Awarded Project** | Multilevel Puzzle Solving Game |
-| **Academic Program** | BSc in Computer Science & Engineering |
-| **Institution** | United International University |
-
----
-
-## `08 / CONNECT`
+## `11 / CONNECT WITH ME`
 
 <div align="center">
 
-**Open to collaboration, software development opportunities, and technical discussions.**
+**Interested in research collaboration, software development, and building meaningful technology.**
 
 <br/>
 
-<a href="mailto:aria2231058@bscse.uiu.ac.bd">
-<img src="https://img.shields.io/badge/CONTACT_VIA_EMAIL-0284c7?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://afia-tasnim-ria.vercel.app/">
+<img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-0284c7?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://github.com/afiatasnimria">
-<img src="https://img.shields.io/badge/EXPLORE_GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:afiatasnimria@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:020617,100:0f172a&text=ENGINEER%20%7C%20BUILD%20%7C%20IMPROVE&fontSize=16&fontColor=38bdf8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:020617,100:0f172a&text=RESEARCH%20%7C%20ENGINEER%20%7C%20INNOVATE&fontSize=16&fontColor=38bdf8" width="100%"/>
 
 </div>
 
-<!-- ================= END PROFILE ================== -->
+<!-- ================= END PROFILE ================= -->
