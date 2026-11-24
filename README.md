@@ -5,18 +5,11 @@
 
 <div align="center">
 
-<!-- PREMIUM DEVELOPER HEADER -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:312e81,45:6d28d9,100:0891b2&text=AFIA%20TASNIM%20RIA&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=COMPUTER%20SCIENCE%20%26%20ENGINEERING&descSize=16&descAlignY=65&descColor=e0f2fe" width="100%" alt="Afia Tasnim Ria"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:020617,100:0f172a&text=AFIA%20TASNIM%20RIA&fontSize=38&fontColor=38bdf8&fontAlignY=43&desc=SOFTWARE%20DEVELOPER%20%7C%20COMPUTER%20SCIENCE%20UNDERGRADUATE&descAlignY=70&descSize=14&descColor=94a3b8"/>
 
 <br/>
 
-<h2>Software Developer · AI/ML Research Enthusiast</h2>
-
-<p>
-  Passionate about building intelligent solutions, exploring deep learning,<br/>
-  and developing software that solves real-world problems.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Scalable+Software+Solutions;Full-Stack+Web+Development;JavaFX+%7C+Desktop+Application+Engineering;Database+Design+%7C+System+Architecture;Turning+Complex+Problems+Into+Code" alt="Developer Typing Animation"/>
 
 <br/>
 
