@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/afiatasnimria">
   <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
@@ -28,13 +28,6 @@
 <a href="mailto:afiatasnimria@gmail.com">
   <img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/AI%20%26%20DEEP%20LEARNING-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/SOFTWARE%20DEVELOPMENT-0891B2?style=flat-square"/>
-<img src="https://img.shields.io/badge/COMPUTER%20VISION-DB2777?style=flat-square"/>
-<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-16A34A?style=flat-square"/>
 
 
 
