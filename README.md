@@ -2,56 +2,55 @@
 <!-- ================= DEVELOPER PROFILE ================= -->
 
 
+
 <div align="center">
 
-<!-- HERO SECTION -->
+<!-- PREMIUM DEVELOPER HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:164e63&height=220&section=header&text=AFIA%20TASNIM%20RIA&fontSize=48&fontColor=67e8f9&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20AI%20RESEARCH%20%7C%20SOFTWARE%20DEVELOPMENT&descSize=13&descAlignY=58&descColor=e2e8f0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:312e81,45:6d28d9,100:0891b2&text=AFIA%20TASNIM%20RIA&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=COMPUTER%20SCIENCE%20%26%20ENGINEERING&descSize=16&descAlignY=65&descColor=e0f2fe" width="100%" alt="Afia Tasnim Ria"/>
 
 <br/>
 
-<h3>Building Ideas Into Intelligent Solutions.</h3>
+<h2>Software Developer · AI/ML Research Enthusiast</h2>
 
 <p>
-  Exploring <b>Artificial Intelligence</b>, <b>Deep Learning</b> & 
-  <b>Software Engineering</b>
+  Passionate about building intelligent solutions, exploring deep learning,<br/>
+  and developing software that solves real-world problems.
 </p>
 
 <br/>
 
-<!-- PORTFOLIO BUTTON -->
-
 <a href="https://afia-tasnim-ria.vercel.app/">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-0891b2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
-
-<!-- SOCIAL LINKS -->
 
 <a href="https://github.com/afiatasnimria">
-  <img src="https://img.shields.io/badge/GitHub-1e293b?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
-<a href="mailto:afiatasnimria@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1e293b?style=flat-square&logo=gmail&logoColor=67e8f9" />
-</a>
-&nbsp;
 <a href="https://www.linkedin.com/in/afia-tasnim-ria-7012563b4/">
-  <img src="https://img.shields.io/badge/LinkedIn-1e293b?style=flat-square&logo=linkedin&logoColor=0A66C2" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:afiatasnimria@gmail.com">
+  <img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=650&lines=AI+%26+Deep+Learning+Research;Multimodal+Learning+%7C+Computer+Vision;Full-Stack+Web+Development;Java+%7C+Python+%7C+C%2B%2B;Turning+Ideas+Into+Technology" />
+<img src="https://img.shields.io/badge/AI%20%26%20DEEP%20LEARNING-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/SOFTWARE%20DEVELOPMENT-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-DB2777?style=flat-square"/>
+<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-16A34A?style=flat-square"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=afiatasnimria&style=flat-square&color=0891b2&label=PROFILE+VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=afiatasnimria&style=flat-square&color=7c3aed&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
+
 
 
 ---
