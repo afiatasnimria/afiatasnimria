@@ -3,7 +3,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:020617,100:0f172a&text=AFIA%20TASNIM%20RIA&fontSize=38&fontColor=38bdf8&fontAlignY=43&desc=AI%20%26%20ML%20RESEARCH%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=70&descSize=14&descColor=94a3b8"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=200&section=header&text=AFIA%20TASNIM%20RIA&fontSize=38&fontColor=38bdf8&fontAlignY=35&desc=AI%20%26%20ML%20RESEARCH%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=55&descSize=14&descColor=94a3b8" width="100%" />
+</div>
 
 <br/>
 
