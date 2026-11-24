@@ -36,9 +36,7 @@
 <img src="https://img.shields.io/badge/COMPUTER%20VISION-DB2777?style=flat-square"/>
 <img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-16A34A?style=flat-square"/>
 
-<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=afiatasnimria&style=flat-square&color=7c3aed&label=PROFILE+VIEWS"/>
 
 </div>
 
