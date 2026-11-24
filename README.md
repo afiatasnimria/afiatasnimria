@@ -1,43 +1,58 @@
 
 <!-- ================= DEVELOPER PROFILE ================= -->
 
+
 <div align="center">
 
-<h1 align="center">
-  <span style="color:#38bdf8;">AFIA TASNIM RIA</span>
-</h1>
+<!-- HERO SECTION -->
 
-<h3 align="center">
-  AI & ML RESEARCH | SOFTWARE DEVELOPMENT
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:164e63&height=220&section=header&text=AFIA%20TASNIM%20RIA&fontSize=48&fontColor=67e8f9&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20AI%20RESEARCH%20%7C%20SOFTWARE%20DEVELOPMENT&descSize=13&descAlignY=58&descColor=e2e8f0" width="100%" />
 
 <br/>
 
+<h3>Building Ideas Into Intelligent Solutions.</h3>
+
+<p>
+  Exploring <b>Artificial Intelligence</b>, <b>Deep Learning</b> & 
+  <b>Software Engineering</b>
+</p>
+
+<br/>
+
+<!-- PORTFOLIO BUTTON -->
+
 <a href="https://afia-tasnim-ria.vercel.app/">
-<img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-0284c7?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-0891b2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Exploring+Artificial+Intelligence+%26+Deep+Learning;Medical+Image+Analysis+%7C+Multimodal+Learning;Software+Development+%26+System+Design;Building+Technology+For+Real-World+Problems" alt="Developer Typing Animation"/>
-
-<br/>
+<!-- SOCIAL LINKS -->
 
 <a href="https://github.com/afiatasnimria">
-<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-1e293b?style=flat-square&logo=github&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:afiatasnimria@gmail.com">
-<img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Email-1e293b?style=flat-square&logo=gmail&logoColor=67e8f9" />
 </a>
-<a href="https://afia-tasnim-ria.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8"/>
+&nbsp;
+<a href="https://www.linkedin.com/in/afia-tasnim-ria-7012563b4/">
+  <img src="https://img.shields.io/badge/LinkedIn-1e293b?style=flat-square&logo=linkedin&logoColor=0A66C2" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=afiatasnimria&style=for-the-badge&color=0284c7&label=PROFILE+VIEWS"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=650&lines=AI+%26+Deep+Learning+Research;Multimodal+Learning+%7C+Computer+Vision;Full-Stack+Web+Development;Java+%7C+Python+%7C+C%2B%2B;Turning+Ideas+Into+Technology" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=afiatasnimria&style=flat-square&color=0891b2&label=PROFILE+VISITORS" />
 
 </div>
+
+---
+
 
 ---
 
