@@ -3,9 +3,13 @@
 
 <div align="center">
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=200&section=header&text=AFIA%20TASNIM%20RIA&fontSize=38&fontColor=38bdf8&fontAlignY=35&desc=AI%20%26%20ML%20RESEARCH%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=55&descSize=14&descColor=94a3b8" width="100%" />
-</div>
+<h1 align="center">
+  <span style="color:#38bdf8;">AFIA TASNIM RIA</span>
+</h1>
+
+<h3 align="center">
+  AI & ML RESEARCH | SOFTWARE DEVELOPMENT
+</h3>
 
 <br/>
 
